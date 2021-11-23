@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Knight-Code-Dev
 - 👀 I’m interested in python, data science
 - 🌱 I’m currently learning python and data science
-- 💞️ I’m looking to collaborate on data presentation projects
+- 💞️ I’m looking to collaborate on data visualisation projects
 - 📫 How to reach me is via my email: oludare_adekunle@outlook.com or oludareadekunle@gmail.com; whatsapp: +2347036438300
 
 <!---

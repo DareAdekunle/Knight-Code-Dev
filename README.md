@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Knight-Code-Dev
+- 👋 Hi, I’m @fox_Knight
 - 👀 I’m interested in python, data science
 - 🌱 I’m currently learning python and data science
 - 💞️ I’m looking to collaborate on data visualisation projects
